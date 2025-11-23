@@ -9,6 +9,7 @@ Welcome to my corner of the internet, where I blend secure infrastructure design
 - Preparing for Security+ and Terraform Associate certifications
 
 **Featured Projects**
+- [Data Loss Prevention Lab](https://github.com/alexbakertech/DLP-Practice) - File integrity and exfiltratoin monitoring with Wazuh and Suricata.
 - Secure Home Lab – VLAN segmentation, pfBlockerNG, IDS, centralized logging (In progress)
 - Ansible Automation Stack – Cross-distro playbooks with CIS benchmarks (Coming Soon)
 - Cloud-Native Homelab – Terraform + Ansible for AWS deployment (Coming Soon)
