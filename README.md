@@ -17,8 +17,8 @@ Welcome to my corner of the internet, where I blend secure infrastructure design
 
 **Certifications Wish List**
 - RHCSA / Linux+
-- Security+ (Q4 2025 goal)
-- Terraform Associate (early 2026 target)
+- Security+
+- Terraform Associate
 
 **Let’s Connect**
 - [GitHub](https://github.com/alexbakertech)
