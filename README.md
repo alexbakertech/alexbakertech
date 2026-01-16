@@ -19,9 +19,9 @@ Actively building an open-source **Personal Security Platform** — practical to
 Proxmox VE • pfSense • WireGuard • rsync • Suricata • Wazuh • Ansible/Terraform • Linux (Ubuntu/Debian) • Webhooks & Alerting
 
 **Let’s Connect**  
-- 🌐 Website: https://alexbakertech.com  
-- 🔗 LinkedIn: https://linkedin.com/in/alexander-james-baker  
-- 🐦 X: https://x.com/alexbakertech  
-- 📺 YouTube: https://youtube.com/@alexbakertech  
+- Website: https://alexbakertech.com  
+- LinkedIn: https://linkedin.com/in/alexander-james-baker  
+- X: https://x.com/alexbakertech  
+- YouTube: https://youtube.com/@alexbakertech  
 
-> "Build. Break. Automate. Secure. Repeat."
+> "Build. Break. Automate. Repeat."
