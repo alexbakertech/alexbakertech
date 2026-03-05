@@ -20,7 +20,7 @@ Recent work includes:
 **Featured Projects**
 
 - **[Local AI Infrastructure Lab](https://github.com/alexbakertech/local-ai-platform)** — Documentation and benchmarks from building a dual-GPU local AI server capable of running modern open-weight models locally. Covers hardware architecture, inference stack design, llama.cpp configuration, and model capability vs performance tradeoffs.  
-  → [Repo](https://github.com/alexbakertech/local-ai-infrastructure-lab) | [Website](https://alexbakertech.com/projects/local-ai-platform)
+  → [Repo](https://github.com/alexbakertech/local-ai-platform) | [Website](https://alexbakertech.com/projects/local-ai-platform)
 
 - **[Incremental Backup Orchestrator](https://github.com/alexbakertech/incremental-backup-orchestrator)** — Lightweight shell script for atomic rsync increments, tiered hardlink snapshots, flock concurrency, and webhook notifications. Zero heavy dependencies, designed for stateful services.  
   → [Repo](https://github.com/alexbakertech/incremental-backup-orchestrator) | [Website](https://alexbakertech.com/projects/incremental-backup-orchestrator)
