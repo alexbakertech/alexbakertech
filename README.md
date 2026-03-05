@@ -1,6 +1,6 @@
 # Hi, I'm Alex Baker — Homelab Architect & Infrastructure Automation Enthusiast
 
-Privacy-focused IT Specialist building secure, reliable homelab systems with Linux, network segmentation, automation, and increasingly **local AI infrastructure**. I document real systems built in my lab including architecture decisions, operational tradeoffs, and performance results.
+Privacy-focused IT Specialist building secure, reliable homelab systems with Linux, network segmentation, automation, and increasingly **local AI infrastructure**. I document real systems built in my lab, including architecture decisions, operational tradeoffs, and performance results.
 
 ---
 
@@ -9,7 +9,7 @@ Currently building and documenting a **Local AI Infrastructure Lab** focused on 
 
 Recent work includes:
 
-- Deploying a **dual-GPU inference server** capable of running ~20B class models locally  
+- Operating a **dual-GPU inference server** capable of running ~20B class models locally  
 - Evaluating model capability vs VRAM constraints and context limits  
 - Benchmarking inference performance and tooling stacks  
 - Integrating **llama.cpp, OpenWebUI, and agent workflows**  
@@ -31,7 +31,9 @@ Recent work includes:
 ---
 
 **Tech Stack**  
-Proxmox VE • pfSense • Linux (Ubuntu/Debian) • WireGuard • rsync • llama.cpp • OpenWebUI • Webhooks & Alerting • OpenClaw
+Proxmox VE • pfSense • Linux (Ubuntu/Debian)  
+WireGuard • rsync • Webhooks & Alerting  
+llama.cpp • OpenWebUI • OpenClaw
 
 ---
 
