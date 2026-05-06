@@ -1,4 +1,6 @@
-# Hi, I'm Alex Baker — Homelab Architect & Infrastructure Automation Enthusiast
+# Hi, I'm Alex Baker
+
+## Homelab Architect & Infrastructure Automation Enthusiast
 
 Privacy-focused IT Specialist building secure, reliable homelab systems with Linux, network segmentation, automation, and increasingly **local AI infrastructure**. I document real systems built in my lab, including architecture decisions, operational tradeoffs, and performance results.
 
