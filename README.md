@@ -39,10 +39,4 @@ llama.cpp • OpenWebUI • OpenClaw
 
 ---
 
-**Let’s Connect**  
-- Website: https://alexbakertech.com  
-- LinkedIn: https://linkedin.com/in/alexander-james-baker  
-- X: https://x.com/alexbakertech  
-- YouTube: https://youtube.com/@alexbakertech  
-
 > "Build. Break. Automate. Repeat."
